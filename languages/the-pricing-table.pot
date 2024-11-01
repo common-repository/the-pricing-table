@@ -1,0 +1,212 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Pricing Table by RadiusTheme\n"
+"POT-Creation-Date: 2017-10-25 14:25+0600\n"
+"PO-Revision-Date: 2017-10-25 14:25+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: the-pricing-table.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lib/classes/rtTPTAjaxResponse.php:134
+msgid "Settings successfully updated"
+msgstr ""
+
+#: lib/classes/rtTPTAjaxResponse.php:136
+msgid "Security Error !!"
+msgstr ""
+
+#: lib/classes/rtTPTAjaxResponse.php:154
+msgid "Select Short code"
+msgstr ""
+
+#: lib/classes/rtTPTAjaxResponse.php:156
+msgid "Default"
+msgstr ""
+
+#: lib/classes/rtTPTAjaxResponse.php:165
+msgid "No shortCode found."
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:14 lib/views/settings.php:45
+msgid "Demo"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:15 lib/views/settings.php:9
+#: lib/views/settings.php:48
+msgid "Documentation"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:22 lib/classes/rtTPTInit.php:23
+msgid "The Pricing Table"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:24 lib/classes/rtTPTInit.php:26
+msgid "Add New Pricing Table"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:25
+msgid "All Pricing Table"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:27
+msgid "Edit Pricing Table"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:28
+msgid "New Pricing Table"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:29
+msgid "View Pricing Table"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:30
+msgid "Search Pricing Tables"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:31
+msgid "No Pricing Tables found"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:32
+msgid "No Pricing Tables found in Trash"
+msgstr ""
+
+#: lib/classes/rtTPTInit.php:102 lib/classes/rtTPTInit.php:103
+msgid "Settings"
+msgstr ""
+
+#: lib/classes/rtTPTMeta.php:39
+msgid "Pricing Table Generator"
+msgstr ""
+
+#: lib/classes/rtTPTMeta.php:58
+msgid "Table Layout"
+msgstr ""
+
+#: lib/classes/rtTPTMeta.php:124
+msgid "Shortcode"
+msgstr ""
+
+#: lib/classes/rtTPTOptions.php:191
+msgid "Container bg color"
+msgstr ""
+
+#: lib/classes/rtTPTOptions.php:197
+msgid "Currency"
+msgstr ""
+
+#: lib/classes/rtTPTOptions.php:204
+msgid "Currency Position"
+msgstr ""
+
+#: lib/classes/rtTPTOptions.php:208
+msgid "Select one"
+msgstr ""
+
+#: lib/classes/rtTPTOptions.php:212
+msgid "Thousand Separator"
+msgstr ""
+
+#: lib/classes/rtTPTOptions.php:218
+msgid "Decimal Separator"
+msgstr ""
+
+#: lib/classes/rtTPTOptions.php:224
+msgid "Number of Decimals"
+msgstr ""
+
+#: lib/classes/rtTPTOptions.php:235
+msgid "Left ($99.99)"
+msgstr ""
+
+#: lib/classes/rtTPTOptions.php:236
+msgid "Right (99.99$)"
+msgstr ""
+
+#: lib/models/rtTPTField.php:348
+msgid "Start"
+msgstr ""
+
+#: lib/models/rtTPTField.php:357
+msgid "End"
+msgstr ""
+
+#: lib/views/admin/body-item-options.php:8
+msgid "Content"
+msgstr ""
+
+#: lib/views/admin/body-style.php:8 lib/views/admin/price-style.php:10
+msgid "Font Size"
+msgstr ""
+
+#: lib/views/admin/footer-style.php:9
+msgid "Button type"
+msgstr ""
+
+#: lib/views/admin/footer-style.php:16
+msgid "Button link type"
+msgstr ""
+
+#: lib/views/admin/general-style.php:9
+msgid "Main color"
+msgstr ""
+
+#: lib/views/admin/header-style.php:8
+msgid "Text color"
+msgstr ""
+
+#: lib/views/admin/price-style.php:18
+msgid "Color"
+msgstr ""
+
+#: lib/views/admin/price-style.php:24
+msgid "Background Color"
+msgstr ""
+
+#: lib/views/settings.php:5
+msgid "The Price Table Settings"
+msgstr ""
+
+#: lib/views/settings.php:6
+msgid "General settings"
+msgstr ""
+
+#: lib/views/settings.php:19
+msgid "General Settings"
+msgstr ""
+
+#: lib/views/settings.php:20
+msgid "Custom Css"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Pricing Table by RadiusTheme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create Pricing Table in few min without any coding knowledge. Create "
+"Unlimited Price Table and Control the table row and arrange by drag & drop."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RadiusTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://radiustheme.com/"
+msgstr ""
